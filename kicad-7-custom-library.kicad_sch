@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3fc4917f-d599-4b68-9e36-fb80b35ed0f0)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Playground for testing symbols" (at 119.38 127 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e6029283-f7ef-4156-a698-02b409d8e6b9)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
